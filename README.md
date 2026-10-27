@@ -11,9 +11,9 @@
 **Recorte do Problema:** Verificação de Idade focada em plataformas de jogos onlines e ambientes de comunicação interativa / voz / texto (com foco em comunidades virtuais no estilo do aplicativo "Discord" e servidores de jogos Multiplayer).
 
 ### Integrantes: ###
-    Gabriel da Silva Cesário - RGM: 47784105 | Área: Ciência de Dados | GitHub: 
+    Gabriel da Silva Cesário - RGM: | Área: Ciência de Dados | GitHub: 
     Mariana Calderari - RGM: 48100072 | Área: Engenharia de Dados | GitHub: 
-    Vitor Camilo de Santana - RGM: 47807458 | Área: CiberSegurança | GitHub: 
+    Vitor Camilo de Santana - RGM: | Área: CiberSegurança | GitHub: 
 
 ## 2. Análise do Problema
 
@@ -102,7 +102,7 @@ ampliar.**
 
 * **Feedback Vitor Camilo de Santana:**
 
-### 9.1 Capítulo Individual — Mariana Calderari (Engenharia de Dados)
+### 9.2 Capítulo Individual — Mariana Calderari (Engenharia de Dados)
 
 * **Papel no Projeto:**
 
@@ -122,7 +122,7 @@ ampliar.**
 
 * **Feedback Vitor Camilo de Santana:**
 
-### 9.1 Capítulo Individual — Vitor Camilo de Santana (CiberSegurança)
+### 9.3 Capítulo Individual — Vitor Camilo de Santana (CiberSegurança)
 
 * **Papel no Projeto:**
 
